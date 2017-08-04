@@ -2,7 +2,7 @@
 
 > A dark theme for [Kate](https://kate-editor.org/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/kate.png)
+![Screenshot](https://github.com/dracula/kate/blob/master/kate.png)
 
 ## Install
 
