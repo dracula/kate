@@ -1,6 +1,6 @@
 # Dracula for [Kate](https://kate-editor.org/)
 
-> A dark theme for [Kate](https://kate-editor.org/).
+> A dark theme for [Kate](https://kate-editor.org/) (and any katepart application, such as [KWrite](https://www.kde.org/applications/utilities/kwrite/), [Kile](http://kile.sourceforge.net/), and [KDevelop](https://www.kdevelop.org/)).
 
 ![Screenshot](https://github.com/dracula/kate/blob/master/kate.png)
 
