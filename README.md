@@ -2,7 +2,7 @@
 
 > A dark theme for [Kate](https://kate-editor.org/) (and any katepart application, such as [KWrite](https://www.kde.org/applications/utilities/kwrite/), [Kile](http://kile.sourceforge.net/), and [KDevelop](https://www.kdevelop.org/)).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/kate.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
